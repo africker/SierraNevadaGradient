@@ -1,0 +1,148 @@
+StagingName,Description,VarType
+tp1_MEAN,digital elevation model,topo
+tp2_MEAN,slope (degrees),topo
+tp3_MEAN,curavature (unitless),topo
+tp4_MEAN,Sine Slope x Cosine Aspect,topo
+tp5_MEAN,Topographic Wetness Index,topo
+tp6_MEAN,Solar Radiation Model,topo
+tp7_MEAN,resampled curvature 5 m,topo
+tp8_MEAN,resampled curvature 10 m,topo
+tp9_MEAN,resampled curvature 20 m,topo
+t10_MEAN,resampled TWI 5 m,topo
+t11_MEAN,resampled TWI 10 m,topo
+t12_MEAN,resampled TWI 20 m,topo
+t13_MEAN,Northwestness,topo
+f01_MEAN,climate Climate: annppt,climate
+f02_MEAN,climate Climate: anntemprange,climate
+f03_MEAN,climate Climate: anntempseasonality,climate
+f04_MEAN,climate Climate: aridity,climate
+f05_MEAN,climate Climate: gdd5,climate
+f06_MEAN,climate Climate: maxtemp,climate
+f07_MEAN,climate Climate: meananntemp,climate
+f08_MEAN,climate Climate: mintemp,climate
+f09_MEAN,climate Climate: pptdryqtr,climate
+f10_MEAN,climate Climate: pptwarmqtr,climate
+f11_MEAN,climate Climate: pptwetqtr,climate
+f12_MEAN,climate Climate: tempdryqtr,climate
+f13_MEAN,climate Climate: tempwetqtr,climate
+f14_MEAN,climate Climate: cwd,climate
+b01_MEAN,Annual Mean Temperature,bioclim
+b02_MEAN,Mean Diurnal Range (Mean of monthly (max temp - min temp)),bioclim
+b03_MEAN,Isothermality (BIO2/BIO7) (* 100),bioclim
+b04_MEAN,Temperature Seasonality (standard deviation *100),bioclim
+b05_MEAN,Max Temperature of Warmest Month,bioclim
+b06_MEAN,Min Temperature of Coldest Month,bioclim
+b07_MEAN,Temperature Annual Range (BIO5-BIO6),bioclim
+b08_MEAN,Mean Temperature of Wettest Quarter,bioclim
+b09_MEAN,Mean Temperature of Driest Quarter,bioclim
+b10_MEAN,Mean Temperature of Warmest Quarter,bioclim
+b11_MEAN,Mean Temperature of Coldest Quarter,bioclim
+b12_MEAN,Annual Precipitation,bioclim
+b13_MEAN,Precipitation of Wettest Month,bioclim
+b14_MEAN,Precipitation of Driest Month,bioclim
+b15_MEAN,Precipitation Seasonality (Coefficient of Variation),bioclim
+b16_MEAN,Precipitation of Wettest Quarter,bioclim
+b17_MEAN,Precipitation of Driest Quarter,bioclim
+b18_MEAN,Precipitation of Warmest Quarter,bioclim
+b19_MEAN,Precipitation of Coldest Quarter,bioclim
+tp1_STD,digital elevation model,topo
+tp2_STD,slope (degrees),topo
+tp3_STD,curavature (unitless),topo
+tp4_STD,Sine Slope x Cosine Aspect,topo
+tp5_STD,Topographic Wetness Index,topo
+tp6_STD,Solar Radiation Model,topo
+tp7_STD,resampled curvature 5 m,topo
+tp8_STD,resampled curvature 10 m,topo
+tp9_STD,resampled curvature 20 m,topo
+t10_STD,resampled TWI 5 m,topo
+t11_STD,resampled TWI 10 m,topo
+t12_STD,resampled TWI 20 m,topo
+t13_STD,Northwestness,topo
+f01_STD,climate Climate: annppt,climate
+f02_STD,climate Climate: anntemprange,climate
+f03_STD,climate Climate: anntempseasonality,climate
+f04_STD,climate Climate: aridity,climate
+f05_STD,climate Climate: gdd5,climate
+f06_STD,climate Climate: maxtemp,climate
+f07_STD,climate Climate: meananntemp,climate
+f08_STD,climate Climate: mintemp,climate
+f09_STD,climate Climate: pptdryqtr,climate
+f10_STD,climate Climate: pptwarmqtr,climate
+f11_STD,climate Climate: pptwetqtr,climate
+f12_STD,climate Climate: tempdryqtr,climate
+f13_STD,climate Climate: tempwetqtr,climate
+f14_STD,climate Climate: cwd,climate
+b01_STD,Annual Mean Temperature,bioclim
+b02_STD,Mean Diurnal Range (Mean of monthly (max temp - min temp)),bioclim
+b03_STD,Isothermality (BIO2/BIO7) (* 100),bioclim
+b04_STD,Temperature Seasonality (standard deviation *100),bioclim
+b05_STD,Max Temperature of Warmest Month,bioclim
+b06_STD,Min Temperature of Coldest Month,bioclim
+b07_STD,Temperature Annual Range (BIO5-BIO6),bioclim
+b08_STD,Mean Temperature of Wettest Quarter,bioclim
+b09_STD,Mean Temperature of Driest Quarter,bioclim
+b10_STD,Mean Temperature of Warmest Quarter,bioclim
+b11_STD,Mean Temperature of Coldest Quarter,bioclim
+b12_STD,Annual Precipitation,bioclim
+b13_STD,Precipitation of Wettest Month,bioclim
+b14_STD,Precipitation of Driest Month,bioclim
+b15_STD,Precipitation Seasonality (Coefficient of Variation),bioclim
+b16_STD,Precipitation of Wettest Quarter,bioclim
+b17_STD,Precipitation of Driest Quarter,bioclim
+b18_STD,Precipitation of Warmest Quarter,bioclim
+b19_STD,Precipitation of Coldest Quarter,bioclim
+soil_fam,Soil family,soil
+tp1_MAX,digital elevation model,topo
+tp2_MAX,slope (degrees),topo
+tp3_MAX,curavature (unitless),topo
+tp4_MAX,Sine Slope x Cosine Aspect,topo
+tp5_MAX,Topographic Wetness Index,topo
+tp6_MAX,Solar Radiation Model,topo
+tp7_MAX,resampled curvature 5 m,topo
+tp8_MAX,resampled curvature 10 m,topo
+tp9_MAX,resampled curvature 20 m,topo
+t10_MAX,resampled TWI 5 m,topo
+t11_MAX,resampled TWI 10 m,topo
+t12_MAX,resampled TWI 20 m,topo
+t13_MAX,Northwestness,topo
+f01_MAX,climate Climate: annppt,climate
+f02_MAX,climate Climate: anntemprange,climate
+f03_MAX,climate Climate: anntempseasonality,climate
+f04_MAX,climate Climate: aridity,climate
+f05_MAX,climate Climate: gdd5,climate
+f06_MAX,climate Climate: maxtemp,climate
+f07_MAX,climate Climate: meananntemp,climate
+f08_MAX,climate Climate: mintemp,climate
+f09_MAX,climate Climate: pptdryqtr,climate
+f10_MAX,climate Climate: pptwarmqtr,climate
+f11_MAX,climate Climate: pptwetqtr,climate
+f12_MAX,climate Climate: tempdryqtr,climate
+f13_MAX,climate Climate: tempwetqtr,climate
+f14_MAX,climate Climate: cwd,climate
+MUKEY,UNLABELLED,soil
+ROCKTYPE1,Geologic Substrate,soil
+ROCKTYPE2,Geologic Substrate,soil
+MUSYM,UNLABELLED,soil
+AF_RECLASS,UNLABELLED,soil
+AWC_MAX,Available Water Content maximum,soil
+AWC_MEAN,Available Water Content mean,soil
+AWC_STD,Available Water Content standard deviation,soil
+BD_MAX,Bulk Density maximum,soil
+BD_MEAN,Bulk Density mean,soil
+BD_STD,Bulk Density standard deviation,soil
+K_MAX,Erodibility maximum,soil
+K_MEAN,Erodibility mean,soil
+K_STD,Erodibility standard deviation,soil
+WC_MAX,Water Content maximum,soil
+WC_MEAN,Water Content mean,soil
+WC_STD,Water Content standard deviation,soil
+pH_MAX,Potential of Hydrogen maximum,soil
+pH_MEAN,Potential of Hydrogen mean,soil
+pH_STD,Potential of Hydrogen standard deviation,soil
+T_MAX,Soil Loss Tolerance (tons/acre) maximum,soil
+T_MEAN,Soil Loss Tolerance (tons/acre) mean,soil
+T_STD,Soil Loss Tolerance (tons/acre) standard deviation,soil
+OM_MAX,Organic Matter maximum,soil
+OM_MEAN,Organic Matter mean,soil
+OM_STD,Organic Matter standard deviation,soil
+PARMATNM_D,Geologic Parent Material,soil
